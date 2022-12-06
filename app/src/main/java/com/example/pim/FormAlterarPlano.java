@@ -17,7 +17,6 @@ public class FormAlterarPlano extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_form_alterar_plano);
 
-        getActionBar().hide();
 
         IniciarComponentes();
         IniciarComponentes1();
