@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">pim</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="tltle_inicio">Escolha o Serviços Desejado</string>
+    <string name="title_meuplano">Meu plano</string>
+    <string name="title_acoes_meuplano">Ações do Meu Plano</string>
+    <string name="duvidas">Esta com algumas duvidas referente aos processos acima? Entre em contato com nossa central de ajuda!</string>
+    <string name="alteracao">Alterar Plano</string>
+    <string name="coberturasADC">Coberturas Adicionais</string>
+    <string name="coberturasADC2">As coberturas adicionais podem ser inclusas a partir da validação da escolha do cliente. ficando assim a criterio do cliente contratar ou não, por um valor adicional de R$ 2,00 no valor mensal do seguro.</string>
+    <string name="cancenl">Para cancelamento de plano, o contratante esta ciente das caracteristicas e ações que foi acordado entre as partes seguradora conforme o contrato.</string>
+    <string name="cancel2">Estou de acordo, que para cancelar o meu atual plano, preciso de deslocar até uma agência presencial da TOP SEGUROS BRASIL.</string>
+    <string name="suportee">clientes_acionar@topseguro.com.br</string>
+
+</resources>
