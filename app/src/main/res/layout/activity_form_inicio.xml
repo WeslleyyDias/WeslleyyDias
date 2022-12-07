@@ -58,7 +58,7 @@
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btt_cadastrarusu"
         style="@style/ButtonSair"
-        android:text="Cadastrar Usuario"
+        android:text="Configurações"
         app:layout_constraintTop_toBottomOf="@id/btt_meu_plano"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
