@@ -11,5 +11,7 @@ public class FormCoberturaRoubo extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_form_cobertura_roubo);
 
+        getSupportActionBar().hide();
+
     }
 }
